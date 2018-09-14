@@ -1,1 +1,3 @@
-node_modules
+/AlertasDaQualidade/build/
+/AlertasDaQualidade/nbproject/private/
+/AlertasDaQualidade/dist/
